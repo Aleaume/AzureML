@@ -6,6 +6,19 @@ Repository made of useful
 - Informations
 Related to my learning journey of Azure Machine Learning
 
-##ONNX
+## ONNX
 
-##
+- Onnx.ipynb
+
+## Azure python SDK
+
+- Test_ListExperiment.ipynb
+Easily listing all existing experiments in the workspace
+
+
+
+## AutoML
+
+-Automl.ipynb
+Example of a few settings possible with AutoML
+
